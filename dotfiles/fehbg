@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/user/.wallpapers/andrei-kotnev-valheim-fanart-final.jpg' 
